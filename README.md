@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**KseniaGV/KseniaGV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне :
+Меня зовут Ксения, я начинающий Pyton разработчик.👩‍💻
 
-Here are some ideas to get you started:
+👨‍🎓 Имею среднее специальное образование по специальности "Сетевое и системное администрирование".
+Резюме
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мой стек
+Python, PostgreSQL, Git, SQL, SQLAlchemy, GitHub
+
+## Вот, что я умею:
+Python, API - [курсовая работа "Резервное копирование"](https://github.com/KseniaGV/pyapi-diplom-basic)  
+
+## Сертификаты
+[Python](https://github.com/KseniaGV/KseniaGV/blob/main/pybasic.pdf)    
+[Git](https://github.com/KseniaGV/KseniaGV/blob/main/git.pdf)    
+[ООП и работа с API](https://github.com/KseniaGV/KseniaGV/blob/main/API.pdf)    
+[Базы данных для Python-разработчиков](https://github.com/KseniaGV/KseniaGV/blob/main/DB.pdf)    
